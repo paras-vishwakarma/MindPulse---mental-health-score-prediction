@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Deployed_on-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
-# 🧠 MindPulse — Mental Health Score Prediction
+#  MindPulse — Mental Health Score Prediction
 
 > **An AI-powered web application that predicts a student's mental health score (0–10) based on their daily habits, social media usage, and lifestyle factors.**
 
@@ -16,21 +16,21 @@ MindPulse combines a **machine learning model** trained on real student survey d
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
 | Feature | Description |
 |---------|-------------|
-| 🎯 **ML-Powered Prediction** | Trained regression model predicts mental health scores on a 0–10 scale |
-| ⚡ **FastAPI Backend** | High-performance REST API with automatic input validation via Pydantic |
-| 🎨 **Premium UI** | Dark-themed, glassmorphism design with Playfair Display & Inter typography |
-| ✨ **Particle System** | Interactive canvas-based particle collision animation as a background |
-| 📊 **Animated Results** | Animated score ring, count-up numbers, and stat bars for sleep, screen time, physical activity & stress |
-| 📱 **Fully Responsive** | Adapts seamlessly from desktop split-panel to mobile stacked layout |
-| 🌐 **Live Deployment** | Backend deployed on Render, frontend can be hosted on any static server |
+|  **ML-Powered Prediction** | Trained regression model predicts mental health scores on a 0–10 scale |
+|  **FastAPI Backend** | High-performance REST API with automatic input validation via Pydantic |
+|  **Premium UI** | Dark-themed, glassmorphism design with Playfair Display & Inter typography |
+|  **Particle System** | Interactive canvas-based particle collision animation as a background |
+|  **Animated Results** | Animated score ring, count-up numbers, and stat bars for sleep, screen time, physical activity & stress |
+|  **Fully Responsive** | Adapts seamlessly from desktop split-panel to mobile stacked layout |
+|  **Live Deployment** | Backend deployed on Render, frontend can be hosted on any static server |
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 MindPulse/
@@ -47,7 +47,7 @@ MindPulse/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -171,7 +171,7 @@ The dataset contains **13 features** from student surveys:
 
 ---
 
-## 🧪 Model Details
+##  Model Details
 
 - **Type:** Regression (scikit-learn)
 - **Serialization:** `joblib` → `Mental_Health_Model.pkl`
@@ -180,7 +180,7 @@ The dataset contains **13 features** from student surveys:
 
 ---
 
-## 🎨 Frontend Highlights
+##  Frontend Highlights
 
 - **Design System:** Deep navy background (`#0f1623`) with antique gold accents (`#c1a875`)
 - **Typography:** Playfair Display (headings) + Inter (body) from Google Fonts
@@ -188,12 +188,12 @@ The dataset contains **13 features** from student surveys:
 - **Result Visualization:**
   - Animated SVG ring gauge (0–10 score)
   - Count-up number animation with easing
-  - Color-coded categories: 🟢 Thriving (≥ 7.5) · 🟡 Holding Steady (5–7.5) · 🔴 Under Strain (< 5)
+  - Color-coded categories:  Thriving (≥ 7.5) ·  Holding Steady (5–7.5) ·  Under Strain (< 5)
   - Stat bars for Sleep Quality, Screen Balance, Physical Health & Stress Management
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 
 ### Backend (Render)
 
@@ -210,7 +210,7 @@ The frontend is static HTML/CSS/JS and can be hosted on any platform:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -223,12 +223,12 @@ The frontend is static HTML/CSS/JS and can be hosted on any platform:
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 > This tool provides an **estimated** mental health score based on self-reported habits. It is **not** a clinical diagnosis. If you're struggling, please reach out to a qualified mental health professional.
 
 ---
 
-## 📄 License
+##  License
 
 © 2026 **Paras Vishwakarma**. All rights reserved.
