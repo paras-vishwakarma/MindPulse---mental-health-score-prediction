@@ -88,7 +88,7 @@ const API_BASE = "http://127.0.0.1:8000";
 
 ---
 
-## 📡 API Reference
+##  API Reference
 
 ### `GET /`
 
@@ -147,7 +147,7 @@ Predict the mental health score for a student.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 **Source:** `Student Social Media And Mental Health Impact.csv`
 
