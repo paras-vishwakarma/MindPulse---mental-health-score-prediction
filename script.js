@@ -4,7 +4,7 @@
    2) Form handling → POST /predict → animated right-panel result
    ═══════════════════════════════════════════════════════════ */
 
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE = "https://mindpulse-mental-health-score-prediction.onrender.com";
 
 /* ──────────────────────────────────────────
    1.  PARTICLE COLLISION SYSTEM
