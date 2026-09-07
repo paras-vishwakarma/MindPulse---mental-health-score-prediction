@@ -199,7 +199,8 @@ The dataset contains **13 features** from student surveys:
 
 The FastAPI backend is deployed on **Render**:
 
-🔗 **Live API:** [https://mindpulse-mental-health-score-prediction.onrender.com](https://mindpulse-mental-health-score-prediction.onrender.com)
+🔗 **Live API:** [https://mindpulse-mental-health-score-prediction.onrender.com](https://mindpulse-mental-health-score-prediction-bbyb.onrender.com).
+
 
 ### Frontend
 
